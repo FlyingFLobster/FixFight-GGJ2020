@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020backgroundshader.fx</SourceFile>
+  <SourceTime>2020-02-01T15:36:44+08:00</SourceTime>
+  <DestFile>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020backgroundshader.xnb</DestFile>
+  <DestTime>2020-02-03T17:53:03.9345582+08:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2018-01-13T19:18:24+08:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2018-01-13T19:18:24+08:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

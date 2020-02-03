@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/AllWhite.fx</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/Font.spritefont</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020backgroundshader.fx</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020battletheme.wav</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020boxbg.png</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020buttonbg.png</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020firesfx.wav</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020frogplaceholder.png</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020hammer1.png</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020hammer2.png</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020impactsfx.wav</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020machineblankbig.png</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020machinebrokenbig1.png</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020machinebrokenbig2.png</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020machinefixedbig1.png</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020machinefixedbig2.png</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020machinefixedbig3.png</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020machineplaceholder.png</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020machinestopbig.png</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020mechanic.png</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020mechanicbig.png</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020menutheme.wav</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020rebootcorrectsfx.wav</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020rebootimpactsfx.wav</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020rebootincorrectsfx.wav</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020titlescreenname.png</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020titlescreennamenobg.png</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020trippybackground.png</File>
+    <File>E:/Zachary/Downloads/FixFight-Source/GGJ2020FLOB/Content/ggj2020watersfx.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

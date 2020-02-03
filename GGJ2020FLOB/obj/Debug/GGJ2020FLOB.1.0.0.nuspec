@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GGJ2020FLOB</id>
+    <version>1.0.0</version>
+    <authors>GGJ2020FLOB</authors>
+    <owners>GGJ2020FLOB</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="InfinitespaceStudios.Pipeline" version="1.0.9" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Content.Builder" version="3.7.0.4" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Framework.DesktopGL.Core" version="3.7.0.7" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020machineplaceholder.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020machinebrokenbig1.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020backgroundshader.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020machinefixedbig3.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020impactsfx.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020watersfx.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020machinefixedbig2.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020buttonbg.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020machinefixedbig1.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020boxbg.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020firesfx.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020machineblankbig.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020mechanic.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020mechanicbig.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020trippybackground.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020titlescreennamenobg.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020machinebrokenbig2.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020menutheme.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020titlescreenname.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020battletheme.ogg" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/Font.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020frogplaceholder.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/AllWhite.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020battletheme.xnb" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/bin/Debug/netcoreapp3.1/GGJ2020FLOB.runtimeconfig.json" target="lib/netcoreapp3.1/GGJ2020FLOB.runtimeconfig.json" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/bin/Debug/netcoreapp3.1/GGJ2020FLOB.dll" target="lib/netcoreapp3.1/GGJ2020FLOB.dll" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020machineplaceholder.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020machineplaceholder.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020machineplaceholder.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020machineplaceholder.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020machinebrokenbig1.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020machinebrokenbig1.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020machinebrokenbig1.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020machinebrokenbig1.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020backgroundshader.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020backgroundshader.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020backgroundshader.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020backgroundshader.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020machinefixedbig3.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020machinefixedbig3.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020machinefixedbig3.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020machinefixedbig3.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020impactsfx.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020impactsfx.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020impactsfx.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020impactsfx.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020watersfx.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020watersfx.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020watersfx.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020watersfx.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020machinefixedbig2.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020machinefixedbig2.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020machinefixedbig2.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020machinefixedbig2.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020buttonbg.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020buttonbg.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020buttonbg.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020buttonbg.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020machinefixedbig1.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020machinefixedbig1.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020machinefixedbig1.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020machinefixedbig1.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020boxbg.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020boxbg.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020boxbg.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020boxbg.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020firesfx.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020firesfx.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020firesfx.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020firesfx.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020machineblankbig.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020machineblankbig.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020machineblankbig.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020machineblankbig.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020mechanic.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020mechanic.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020mechanic.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020mechanic.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020mechanicbig.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020mechanicbig.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020mechanicbig.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020mechanicbig.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020trippybackground.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020trippybackground.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020trippybackground.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020trippybackground.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020titlescreennamenobg.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020titlescreennamenobg.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020titlescreennamenobg.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020titlescreennamenobg.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020machinebrokenbig2.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020machinebrokenbig2.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020machinebrokenbig2.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020machinebrokenbig2.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020menutheme.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020menutheme.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020menutheme.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020menutheme.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020titlescreenname.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020titlescreenname.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020titlescreenname.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020titlescreenname.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020battletheme.ogg" target="content/Content/bin/DesktopGL/Content/ggj2020battletheme.ogg" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020battletheme.ogg" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020battletheme.ogg" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/Font.xnb" target="content/Content/bin/DesktopGL/Content/Font.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/Font.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/Font.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020frogplaceholder.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020frogplaceholder.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020frogplaceholder.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020frogplaceholder.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/AllWhite.xnb" target="content/Content/bin/DesktopGL/Content/AllWhite.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/AllWhite.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/AllWhite.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020battletheme.xnb" target="content/Content/bin/DesktopGL/Content/ggj2020battletheme.xnb" />
+    <file src="/home/cultist/RiderProjects/GGJ2020FLOB/GGJ2020FLOB/Content/bin/DesktopGL/Content/ggj2020battletheme.xnb" target="contentFiles/any/netcoreapp3.1/Content/bin/DesktopGL/Content/ggj2020battletheme.xnb" />
+  </files>
+</package>

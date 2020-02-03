@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGJ2020FLOB", "GGJ2020FLOB\GGJ2020FLOB.csproj", "{CAB6AF02-2513-4B7D-8826-1285BC52146C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAB6AF02-2513-4B7D-8826-1285BC52146C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB6AF02-2513-4B7D-8826-1285BC52146C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB6AF02-2513-4B7D-8826-1285BC52146C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB6AF02-2513-4B7D-8826-1285BC52146C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
